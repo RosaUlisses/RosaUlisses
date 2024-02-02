@@ -9,6 +9,7 @@ Last but not least, my friends are my most precious treasure 🤎.
 ## *🆒 What I enjoy*
 - Compilers
 - Competitive programming
+- Neovim
 - Functional programming
 - Computer theory
 
